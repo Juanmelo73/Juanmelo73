@@ -1,7 +1,7 @@
 
 <h1 align="center">
 <img width="38%" src="Logo.png" style="margin: 10px;" />
-Welcom! My name is Juan José Melo.
+Welcome! My name is Juan José Melo.
 </h1>
 
 ### About me
@@ -9,26 +9,32 @@ Welcom! My name is Juan José Melo.
 ```python
 aboutMe = {
     "birthPlace": "San Juan de Pasto, Colombia",
-    "specializing": ["Full stack Developer", "Cybersecurity"]
-    "interest": ["soccer", "Comedy shows", "socializing"]
+    "specializing": ["Artificial Intelligence", "Cybersecurity", "Electronics and Telecommunications Engineering"],
 }
-
 ```
-I am a developer primarily interested in web technologies and cross-platform applications.
+
+I am a developer primarily interested in web technologies, cross-platform applications, and cybersecurity.
 
 ### Technology stack
 
+**Development**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat)
-![IDE](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
-![Java](https://img.shields.io/badge/Java-B32629?logo=java&logoColor=white&style=flat)
 
+**Cybersecurity**
 
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C93?logo=kalilinux&logoColor=white&style=flat)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=flat)
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?logo=fortinet&logoColor=white&style=flat)
+![Splunk](https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white&style=flat)
+![Microsoft Defender](https://img.shields.io/badge/Microsoft%20Defender-0078D4?logo=microsoftdefender&logoColor=white&style=flat)
 
 ### In just a touch
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:juan.melo@uao.edu.co)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/juan-jose-melo-montenegro-22187616b/)
 
