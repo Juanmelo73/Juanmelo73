@@ -8,7 +8,7 @@ Welcome! My name is Juan José Melo.
 
 ```python
 aboutMe = {
-    "birthPlace": "San Juan de Pasto, Colombia",
+    "birthPlace": "Colombia",
     "specializing": ["Artificial Intelligence", "Cybersecurity", "Electronics and Telecommunications Engineering"],
 }
 ```
