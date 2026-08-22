@@ -1,8 +1,10 @@
 
-<h1 align="center">
+<h1 align="right">
 <img width="38%" src="foto.jpeg" style="margin: 10px;" />
-Welcome! My name is Juan José Melo.
 </h1>
+<h1> Welcome! My name is Juan José Melo. </h1>
+
+
 
 ### About me
 
