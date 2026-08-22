@@ -1,6 +1,6 @@
 
 <h1 align="center">
-<img width="38%" src="Logo.png" style="margin: 10px;" />
+<img width="38%" src="foto.jpeg" style="margin: 10px;" />
 Welcome! My name is Juan José Melo.
 </h1>
 
